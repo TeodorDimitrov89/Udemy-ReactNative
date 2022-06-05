@@ -7,3 +7,7 @@
 
 RNMiniGame/node_modules
 RNMiniGame/.expo/
+
+RNMealsApp/node_modules
+RNMealsApp/.expo/
+.vscode
