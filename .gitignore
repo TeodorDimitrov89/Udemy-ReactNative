@@ -11,3 +11,5 @@ RNMiniGame/.expo/
 RNMealsApp/node_modules
 RNMealsApp/.expo/
 .vscode
+/RNExpensesApp/node_modules
+/RNExpensesApp/.expo-shared
