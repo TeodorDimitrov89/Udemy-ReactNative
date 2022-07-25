@@ -63,6 +63,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     borderRadius: 4,
     minWidth: 80,
+    maxHeight: 40,
   },
   amount: {
     color: GlobalStyles.colors.primary500,
