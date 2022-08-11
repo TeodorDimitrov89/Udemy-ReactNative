@@ -13,3 +13,5 @@ RNMealsApp/.expo/
 .vscode
 /RNExpensesApp/node_modules
 /RNExpensesApp/.expo-shared
+/RNAuth/.expo
+/RNAuth/node_modules
