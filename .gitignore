@@ -15,5 +15,5 @@ RNMealsApp/.expo/
 /RNExpensesApp/.expo-shared
 /RNAuth/.expo
 /RNAuth/node_modules
-/RNFavoritePlace/node_modules
-/RNFavoritePlace/.expo-shared
+/RNFavoritePlaces/node_modules
+/RNFavoritePlaces/.expo-shared
