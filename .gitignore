@@ -17,3 +17,5 @@ RNMealsApp/.expo/
 /RNAuth/node_modules
 /RNFavoritePlaces/node_modules
 /RNFavoritePlaces/.expo-shared
+/RNNotifications/.expo-shared
+/RNNotifications/node_modules
